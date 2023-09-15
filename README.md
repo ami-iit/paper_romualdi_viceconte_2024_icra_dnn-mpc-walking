@@ -1,5 +1,5 @@
 <h1 align="center">
-Online Deep Network-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment
+Online DNN-driven Nonlinear MPC for Stylistic Humanoid Robot Walking with Step Adjustment
 </h1>
 
 <div align="center">
