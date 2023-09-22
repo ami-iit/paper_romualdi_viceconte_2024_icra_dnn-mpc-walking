@@ -15,7 +15,7 @@ Giulio Romualdi, Paolo Maria Viceconte, Stefano Dafarra, Silvio Traversaro and D
 </div>
  
 <div align="center">
-    <a href="#reproducing-the-experiments"><b>🔧 Installation 🔧</b></a>
+    <a href="#reproducing-the-experiments"><b>🔧 Installation 🔧</b> | </a> <a href="https://huggingface.co/datasets/ami-iit/paper_romualdi_viceconte_2024_icra_dnn-mpc-walking_dataset"><b>📂 Dataset 📂</b></a>
 </div>
 
 
